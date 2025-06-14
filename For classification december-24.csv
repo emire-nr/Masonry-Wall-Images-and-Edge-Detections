@@ -1,0 +1,394 @@
+Image No,Type,Mortar/Dry,Total Contour Number,Mean of Number of Edges,Std of Number of Edges,Mean of Contour Length,Std of Contour Length,Total Neighbourhood Number,Close Packed
+1.jpg,Random Rubble,Mortar,17,9.058,3.114,229.124,68.898,60,No
+2.jpg,Random Rubble,Mortar,17,12.764,3.718,245.691,108.736,68,No
+3.jpg,Random Rubble,Mortar,14,13.142,4.223,252.662,71.236,52,No
+4.jpg,Random Rubble,Mortar,15,10.933,3.837,249.117,51.904,54,No
+5.jpg,Random Rubble,Dry,16,23.375,7.606,317.534,246.104,48,No
+6.jpg,Random Rubble,Dry,4,23.75,4.493,544.628,89.155,,No
+7.jpg,Random Rubble,Dry,4,25.25,2.772,616.525,287.636,6,No
+8.jpg,Square Rubble,Dry,8,21,6.11,350.39,285.764,20,Yes
+10.jpg,Random Rubble,Mortar,17,20.588,4.538,244.18,83.696,68,No
+11.jpg,Random Rubble,Mortar,7,19.714,4.62,428.822,184.373,18,No
+14.jpg,Square Rubble,Dry,3,30.666,4.109,1082.066,847.258,,Yes
+16.jpg,Random Rubble,Dry,11,27,7.627,693.284,294.139,32,Yes
+17.jpg,Random Rubble,Mortar,18,21.944,5.243,258.114,155.323,66,No
+20.jpg,Random Rubble,Dry,21,22.904,7.302,313.031,219.714,66,Yes
+22.jpg,Square Rubble,Mortar,23,8.13,3.138,203.635,75.462,98,No
+27.jpg,Random Rubble,Dry,9,25.777,5.94,431.181,280.11,24,Yes
+31.jpg,Random Rubble,Mortar,15,22.6,5.547,304.11,211.833,52,Yes
+35.jpg,Random Rubble,Dry,40,19.725,3.84,178.694,92.427,126,Yes
+38.jpg,Square Rubble,Dry,18,14.277,6.269,256.37,283.344,52,Yes
+43.jpg,Random Rubble,Dry,43,19.441,3.774,183.765,87.449,168,Yes
+45.jpg,Square Rubble,Dry,3,18.666,3.091,971.984,480.491,4,Yes
+48.jpg,Random Rubble,Dry,7,10,4.105,335.638,168.318,20,No
+49.jpg,Polygonal Rubble ,Dry,21,16.666,3.563,239.104,169.899,58,Yes
+50.jpg,Polygonal Rubble ,Mortar,193,9.212,2.074,66.09,44.18,,Yes
+52.jpg,Random Rubble,Dry,5,15.2,3.487,480.865,166.624,12,No
+53.jpg,Random Rubble,Dry,13,14,4.367,318.637,142.029,46,Yes
+67.jpg,Random Rubble,Dry,6,14.666,4.384,433.895,89.457,18,No
+68.jpg,Polygonal Rubble ,Dry,4,22.5,5.408,621.766,445.553,10,Yes
+71.jpg,Polygonal Rubble ,Dry,7,21,4.956,463.47,241.102,16,Yes
+76.jpg,Polygonal Rubble ,Mortar,9,22.444,4.901,398.399,315.367,26,Yes
+81.jpg,Random Rubble,Mortar,26,15.923,4.066,237.605,137.783,92,No
+88.jpg,Polygonal Rubble ,Mortar,37,14.216,4.387,163.708,203.147,122,No
+90.jpg,Polygonal Rubble ,Mortar,14,10.642,4.6844,262.241,99.93,46,No
+91.jpg,Random Rubble,Dry,35,12.885,4.399,186.977,159.268,102,Yes
+92.jpg,Random Rubble,Mortar,85,11.505,2.384,98.103,57.842,324,No
+94.jpg,Square Rubble,Mortar,36,20.055,4.061,208.312,133.462,136,Yes
+95.jpg,Polygonal Rubble ,Mortar,13,11.692,3.624,314.533,128.044,46,Yes
+96.jpg,Polygonal Rubble ,Mortar,20,16.75,4.121,241.754,118.339,68,No
+97.jpg,Random Rubble,Dry,45,8.444,2.155,151.785,106.111,134,Yes
+100.jpg,Square Rubble,Dry,13,8.666,2.82,284.053,131.081,44,No
+104.jpg,Random Rubble,Dry,26,11.884,3.423,198.423,166.458,78,No
+106.jpg,Random Rubble,Mortar,30,21.666,4.57,228.067,144.889,120,No
+108.jpg,Polygonal Rubble ,Mortar,22,18.681,3.559,261.002,191.926,72,No
+111.jpg,Polygonal Rubble ,Mortar,9,12.777,3.644,490.426,263.955,28,Yes
+114.jpg,Polygonal Rubble ,Mortar,9,17.666,6.765,387.45,157.451,22,Yes
+118.jpg,Random Rubble,Dry,23,14.739,4.988,238.106,149.547,72,Yes
+120.jpg,Square Rubble,Mortar,59,23.033,5.0922,154.036,111.778,224,No
+125.jpg,Polygonal Rubble ,Mortar,56,17.964,3.489,154.68,92.17,202,Yes
+128.jpg,Polygonal Rubble ,Mortar,36,25.666,4.725,222.789,158.048,126,No
+131.jpg,Random Rubble,Dry,94,24.265,5.128,114.417,93.428,,No
+134.jpg,Square Rubble,Dry,13,18.307,7.02,384.111,388.798,34,Yes
+136.jpg,Square Rubble,Dry,6,14.333,5.153,685.329,483.172,10,Yes
+137.jpg,Random Rubble,Dry,8,21.5,2.236,471.664,289.832,24,Yes
+139.jpg,Random Rubble,Mortar,25,16.88,4.062,214.692,121.38,84,No
+145.jpg,Random Rubble,Dry,17,18.647,5.8,322.543,178.273,54,No
+146.jpg,Polygonal Rubble ,Mortar,12,16.25,4.584,360.477,184.208,38,No
+150.jpg,Square Rubble,Dry,7,15.857,3.043,504.474,409.444,18,No
+151.jpg,Square Rubble,Dry,14,18.214,4.959,324.896,263.226,40,Yes
+152.jpg,Square Rubble,Mortar,8,12.25,3.112,357.316,108.885,26,No
+157.jpg,Random Rubble,Dry,24,14.833,3.555,215.981,149.976,76,No
+168.jpg,Random Rubble,Mortar,35,23.142,3.757,241.453,164.666,122,No
+177.jpg,Square Rubble,Mortar,22,32.272,5.94,282.076,200.317,78,Yes
+178.jpg,Random Rubble,Dry,13,19.692,4.339,391.388,192.032,38,Yes
+180.jpg,Random Rubble,Dry,11,23.181,3.432,441.794,387.793,32,No
+181.jpg,Random Rubble,Dry,13,22.153,4.221,376.474,357.49,32,No
+184.jpg,Random Rubble,Dry,6,22.5,3.149,438.084,384.642,16,No
+185.jpg,Random Rubble,Dry,7,21.142,1.551,484.75,320.157,20,No
+186.jpg,Random Rubble,Dry,16,17.933,4.249,261.716,289.488,40,No
+189.jpg,Random Rubble,Dry,5,26.2,3.867,604.73,232.023,12,No
+190.jpg,Random Rubble,Dry,8,18.125,3.55,422.17,164.002,24,No
+191.jpg,Square Rubble,Dry,9,17.555,7.917,465.308,339.864,26,No
+192.jpg,Square Rubble,Dry,10,22.2,5.946,391.309,207.433,30,Yes
+193.jpg,Square Rubble,Dry,10,27.7,7.043,428.908,411.098,28,No
+194.jpg,Random Rubble,Mortar,12,21.666,3.399,312.039,101.81,42,No
+195.jpg,Random Rubble,Mortar,17,24.235,3.54,293.686,105.15,60,No
+196.jpg,Random Rubble,Mortar,21,24.333,3.98,223.182,58.591,82,No
+198.jpg,Random Rubble,Mortar,12,15.166,3.89,311.013,101.745,44,No
+199.jpg,Random Rubble,Mortar,8,12,4.924,353.434,148.848,26,No
+215.jpg,Random Rubble,Mortar,20,23.36,5.985,202.208,113.227,98,No
+216.jpg,Random Rubble,Mortar,16,19.187,5.736,280.667,138.137,52,No
+217.jpg,Random Rubble,Mortar,21,17.238,4.363,235.822,91.116,82,No
+218.jpg,Random Rubble,Mortar,13,23.461,5.583,336.482,194.744,40,No
+219.jpg,Random Rubble,Mortar,18,16.333,2.848,255.244,124.453,58,No
+220.jpg,Random Rubble,Mortar,23,14.478,3.005,202.74,125.392,80,No
+221.jpg,Random Rubble,Mortar,23,26.913,5.182,217.931,98.496,98,No
+226.jpg,Random Rubble,Dry,25,20.16,6.85,252.4,234.85,70,Yes
+227.jpg,Random Rubble,Dry,23,18.391,6.329,271.272,175.354,88,Yes
+228.jpg,Random Rubble,Dry,25,18.64,5.705,230.89,96.713,86,Yes
+238.jpg,Random Rubble,Dry,12,25.583,6.304,376.87,226.576,36,Yes
+240.jpg,Random Rubble,Dry,7,23.714,5.146,422.17,224.363,20,Yes
+244.jpg,Random Rubble,Mortar,19,19.631,5.686,262.279,133.312,72,Yes
+245.jpg,Random Rubble,Mortar,25,20.2,5.238,213.036,140.472,86,Yes
+246.jpg,Random Rubble,Mortar,21,21.952,5.979,256.689,164.841,62,Yes
+247.jpg,Random Rubble,Mortar,17,20.823,6.308,268.872,139.69,60,Yes
+248.jpg,Random Rubble,Mortar,21,15.142,5.54,221.522,123.664,74,Yes
+258.jpg,Random Rubble,Dry,37,19.324,3.464,195.713,134.733,118,Yes
+259.jpg,Random Rubble,Dry,37,19.783,4.412,197.517,126.785,128,Yes
+260.jpg,Random Rubble,Dry,33,20.939,3.773,216.222,140.517,118,Yes
+264.jpg,Square Rubble,Dry,19,15.368,4.544,245.639,153.008,58,No
+265.jpg,Square Rubble,Dry,19,16.105,3.522,249.253,160.914,72,No
+266.jpg,Square Rubble,Dry,17,15.823,5.436,284.736,237.284,54,No
+269.jpg,Random Rubble,Dry,43,18.093,4.481,178.473,130.14,160,No
+270.jpg,Random Rubble,Dry,47,19.382,4.045,170.587,106.819,176,No
+271.jpg,Random Rubble,Dry,45,19.755,4.492,173.903,132.896,158,No
+273.jpg,Square Rubble,Dry,5,20.6,6.311,588.591,229.506,12,Yes
+278.jpg,Square Rubble,Dry,5,23.4,4.758,657.794,277.064,14,Yes
+281.jpg,Square Rubble,Dry,4,23.25,7.119,828.664,293.763,6,Yes
+282.jpg,Square Rubble,Dry,4,24,8.185,691.463,389.247,6,Yes
+283.jpg,Square Rubble,Dry,5,23.8,4.534,665.466,257.07,14,Yes
+294.jpg,Random Rubble,Mortar,7,13.71,4.712,452.487,260.708,18,No
+295.jpg,Random Rubble,Mortar,7,10,2.138,387.97,112.625,20,No
+296.jpg,Random Rubble,Mortar,7,15.285,5.443,413.172,131.951,22,No
+297.jpg,Polygonal Rubble ,Dry,16,23.062,4.264,327.936,248.276,40,Yes
+300.jpg,Polygonal Rubble ,Dry,21,22.142,3.313,253.953,218.183,64,Yes
+301.jpg,Polygonal Rubble ,Dry,19,21.894,3.998,287.651,207.419,68,Yes
+315.jpg,Random Rubble,Dry,3,12.666,1.247,747.497,370.613,6,Yes
+316.jpg,Random Rubble,Dry,5,19.2,8.231,565.197,339.028,14,No
+317.jpg,Random Rubble,Dry,4,15.75,3.031,681.864,315.516,10,No
+318.jpg,Random Rubble,Dry,13,15.153,4.4,318.272,185.985,32,Yes
+319.jpg,Random Rubble,Dry,14,14.571,4.03,317.404,223.817,42,Yes
+320.jpg,Random Rubble,Dry,12,14.416,3.925,379.112,159.156,40,Yes
+391.jpg,Random Rubble,Dry,7,15.571,5.038,401.957,70.623,22,No
+392.jpg,Polygonal Rubble ,Dry,5,19.4,2.244,643.771,134.314,12,Yes
+393.jpg,Polygonal Rubble ,Dry,5,19.8,2.638,570.472,347.333,10,Yes
+404.jpg,Polygonal Rubble ,Dry,5,21.8,3.249,613.376,482.461,10,Yes
+405.jpg,Polygonal Rubble ,Dry,8,18.625,3.772,477.324,279.141,24,Yes
+417.jpg,Polygonal Rubble ,Mortar,18,21.666,6.173,303.671,151.663,56,No
+428.jpg,Random Rubble,Mortar,14,16.714,3.368,393.449,215.393,40,No
+429.jpg,Random Rubble,Mortar,35,16.542,4.052,170.288,122.63,116,No
+433.jpg,Random Rubble,Mortar,19,16.105,5.802,282.578,146.056,62,No
+434.jpg,Random Rubble,Mortar,21,16.952,4.088,266.474,165.307,72,No
+435.jpg,Random Rubble,Mortar,19,16.315,5.068,306.499,159.684,62,No
+438.jpg,Random Rubble,Mortar,22,16.727,3.99,254.366,116.335,74,No
+459.jpg,Polygonal Rubble ,Mortar,32,14.625,4.255,181.42,200.071,112,No
+460.jpg,Polygonal Rubble ,Mortar,27,15.888,3.744,226.901,244.16,88,No
+461.jpg,Polygonal Rubble ,Mortar,29,13.551,4.832,177.767,218.184,94,No
+465.jpg,Polygonal Rubble ,Mortar,11,9.181,2.917,268.032,152.279,36,No
+466.jpg,Polygonal Rubble ,Mortar,12,10.083,4.838,281.927,97.652,40,No
+467.jpg,Polygonal Rubble ,Mortar,12,8.083,4.071,276.134,106.509,38,No
+468.jpg,Random Rubble,Mortar,92,10.836,2.671,84.886,53.463,,No
+469.jpg,Random Rubble,Mortar,88,11.068,2.521,91.21,76.74,,No
+471.jpg,Random Rubble,Mortar,101,11.138,2.782,82.199,53.845,,No
+472.jpg,Random Rubble,Mortar,80,10.287,2.734,92.645,69.488,,No
+474.jpg,Square Rubble,Mortar,43,20.046,3.549,187.775,91.79,180,Yes
+475.jpg,Square Rubble,Mortar,45,19.822,3.591,182.783,114.507,174,Yes
+476.jpg,Polygonal Rubble ,Mortar,16,10,3.872,238.473,84.435,56,No
+477.jpg,Polygonal Rubble ,Mortar,14,10.857,2.799,285.324,124.031,46,No
+478.jpg,Polygonal Rubble ,Mortar,17,9.529,3.256,246.864,95.865,60,No
+479.jpg,Polygonal Rubble ,Mortar,13,12.153,4.417,310.654,182.973,42,No
+480.jpg,Polygonal Rubble ,Mortar,14,11.928,3.534,304.253,216.007,48,No
+481.jpg,Random Rubble,Dry,45,8.444,2.049,140.882,84.572,156,No
+482.jpg,Random Rubble,Dry,41,9.243,2.303,163.964,115.65,144,No
+483.jpg,Random Rubble,Dry,50,9.28,2.097,147.464,84.29,176,No
+486.jpg,Square Rubble,Dry,15,9.066,3.275,270.398,152.477,52,No
+487.jpg,Square Rubble,Dry,11,9.272,2.219,363.982,182.815,26,No
+488.jpg,Square Rubble,Dry,11,7.818,1.991,351.426,185.327,34,No
+493.jpg,Square Rubble,Dry,11,8.09,2.678,363.22,207.993,30,No
+494.jpg,Square Rubble,Dry,10,8.3,1.615,346.442,240.086,30,No
+495.jpg,Square Rubble,Dry,14,8.357,2.286,286.707,185.44,42,No
+496.jpg,Square Rubble,Dry,13,8,2.287,300.051,169.205,38,No
+497.jpg,Square Rubble,Dry,15,8.666,2.699,295.819,94.089,50,No
+499.jpg,Random Rubble,Dry,25,13.72,4.005,206.735,190.448,90,No
+500.jpg,Random Rubble,Dry,30,12.533,4.216,178.752,130.5,104,No
+501.jpg,Random Rubble,Dry,22,13.409,4.417,231.76,140.031,64,No
+502.jpg,Random Rubble,Dry,23,14.304,4.946,194.891,103.242,86,No
+503.jpg,Random Rubble,Mortar,36,19.388,3.506,178.186,120.985,148,No
+504.jpg,Random Rubble,Mortar,32,21.812,4.713,206.974,142.519,108,No
+506.jpg,Random Rubble,Mortar,35,20.942,3.92,193.208,105.097,142,No
+507.jpg,Random Rubble,Mortar,40,20.425,4.247,166.678,55.1,172,No
+508.jpg,Random Rubble,Mortar,35,22.085,4.901,189.558,121.911,128,No
+509.jpg,Polygonal Rubble ,Mortar,10,12.1,3.78,460.98,218.973,32,Yes
+510.jpg,Polygonal Rubble ,Mortar,11,14.727,5.0288,406.802,175.367,36,Yes
+511.jpg,Polygonal Rubble ,Mortar,11,11.181,3.588,365.54,225.474,30,Yes
+513.jpg,Polygonal Rubble ,Mortar,12,12.166,2.91,328.586,142.527,40,Yes
+520.jpg,Random Rubble,Mortar,47,21.765,5.419,167.984,176.762,164,No
+521.jpg,Square Rubble,Mortar,49,22.632,5.829,170.241,132.886,168,No
+522.jpg,Square Rubble,Mortar,47,21.957,4.819,162.717,135.614,170,No
+523.jpg,Polygonal Rubble ,Mortar,52,16.692,4.116,151.272,112.074,196,Yes
+524.jpg,Polygonal Rubble ,Mortar,56,18.107,4.173,155.566,101.822,202,Yes
+528.jpg,Random Rubble,Dry,107,23.626,5.53,107.319,80.705,,No
+529.jpg,Random Rubble,Dry,105,23.885,4.848,106.101,80.323,,No
+531.jpg,Square Rubble,Dry,14,19.214,5.492,409.847,405.241,42,Yes
+534.jpg,Square Rubble,Dry,11,16.909,2.874,435.073,236.736,30,Yes
+536.jpg,Square Rubble,Dry,11,15.09,6.855,434.223,374.988,14,Yes
+537.jpg,Square Rubble,Dry,9,14.111,3.899,485.364,289.727,26,Yes
+538.jpg,Square Rubble,Dry,12,14.25,3.654,351.381,271.446,26,Yes
+539.jpg,Square Rubble,Dry,8,12.25,3.381,534.39,217.848,22,Yes
+540.jpg,Square Rubble,Dry,12,17.75,7.119,416.206,362.69,40,Yes
+541.jpg,Square Rubble,Dry,11,12.727,3.62,426.265,331.608,32,Yes
+542.jpg,Square Rubble,Dry,11,13.454,3.798,413.88,346.727,20,Yes
+543.jpg,Square Rubble,Dry,10,14.9,5.889,443.639,420.798,30,Yes
+544.jpg,Square Rubble,Dry,12,13,5.196,426.665,240.796,36,Yes
+547.jpg,Random Rubble,Dry,9,22.555,4.03,463.623,177.818,30,Yes
+548.jpg,Random Rubble,Dry,11,22.545,4.519,408.441,231.218,28,Yes
+549.jpg,Random Rubble,Dry,13,20.769,3.703,307.31,185.039,46,Yes
+550.jpg,Random Rubble,Dry,14,20.785,4.211,306.026,187.389,46,Yes
+551.jpg,Random Rubble,Dry,18,21.333,3.726,243.373,175.171,54,Yes
+552.jpg,Random Rubble,Dry,14,21.571,3.83,290.829,179.406,42,Yes
+553.jpg,Random Rubble,Mortar,30,17.033,4.094,209.511,101.057,116,No
+554.jpg,Random Rubble,Mortar,21,19,3.251,249.198,150.86,76,No
+555.jpg,Random Rubble,Mortar,24,18.541,3.915,227.606,133.972,86,No
+577.jpg,Random Rubble,Dry,16,20.75,3.75,351.168,177.817,56,No
+578.jpg,Random Rubble,Dry,14,19.285,3.594,374.663,212.401,44,No
+580.jpg,Polygonal Rubble ,Mortar,11,18.727,2.339,428.209,216.324,34,No
+582.jpg,Polygonal Rubble ,Mortar,16,18.062,5.436,331.384,162.897,56,No
+586.jpg,Square Rubble,Dry,9,15.666,4.807,398.6,301.234,26,No
+587.jpg,Square Rubble,Dry,7,16.142,3.09,374.315,264.929,20,No
+588.jpg,Square Rubble,Dry,7,15.285,3.41,534.683,319.578,20,No
+589.jpg,Square Rubble,Dry,7,12,2.927,532.438,331.103,18,No
+590.jpg,Square Rubble,Dry,12,15.5,3.64,279.504,293.506,30,No
+591.jpg,Square Rubble,Dry,10,15.1,4.369,330.47,287.43,24,Yes
+592.jpg,Square Rubble,Dry,11,15.909,4.925,404.576,284.557,34,No
+593.jpg,Square Rubble,Dry,14,16.214,4.857,298.408,253.675,40,Yes
+594.jpg,Square Rubble,Dry,12,15.75,3.744,381.37,279.668,36,No
+595.jpg,Square Rubble,Dry,9,15.111,4.556,425.496,272.448,24,Yes
+598.jpg,Square Rubble,Dry,8,18,2.061,468.03,287.205,22,No
+600.jpg,Square Rubble,Dry,4,13,5.477,782.812,508.417,12,Yes
+601.jpg,Square Rubble,Dry,10,15.1,3.419,405.129,268.835,32,No
+602.jpg,Square Rubble,Dry,7,16.142,2.641,428.729,322.745,14,No
+603.jpg,Square Rubble,Dry,6,17.5,3.304,540.374,193.341,18,No
+607.jpg,Square Rubble,Mortar,7,12,2.672,464.653,178.253,22,No
+608.jpg,Square Rubble,Mortar,6,11.666,3.543,495.348,297.931,18,No
+609.jpg,Square Rubble,Mortar,6,13.428,3.499,426.644,210.543,22,No
+610.jpg,Square Rubble,Mortar,8,11.75,3.897,339.788,74.285,28,No
+612.jpg,Square Rubble,Mortar,8,12.5,1.936,315,116.699,26,No
+613.jpg,Square Rubble,Mortar,9,12.222,3.292,292.492,106.278,32,No
+614.jpg,Square Rubble,Mortar,11,12,5.393,281.306,105.542,34,No
+615.jpg,Square Rubble,Mortar,8,14,2.915,363.276,103.376,24,No
+616.jpg,Square Rubble,Mortar,9,13,2.905,304.592,135.607,28,No
+617.jpg,Square Rubble,Mortar,10,13.3,2.758,296.605,117.462,32,No
+618.jpg,Square Rubble,Mortar,10,13.2,3.682,329.558,149.414,32,No
+619.jpg,Square Rubble,Mortar,9,13,2.943,356.401,145.535,28,No
+644.jpg,Random Rubble,Dry,11,12.818,3.809,361.018,286.864,38,No
+645.jpg,Random Rubble,Dry,14,15.071,3.058,299.326,177.196,54,No
+689.jpg,Random Rubble,Mortar,37,22.891,4.164,228.056,145.8,136,No
+690.jpg,Random Rubble,Mortar,35,22.571,4.883,233.397,180.131,140,No
+691.jpg,Random Rubble,Mortar,40,21.825,4.732,207.222,147.125,148,No
+713.jpg,Square Rubble,Mortar,20,31.7,4.807,278.022,153.393,90,Yes
+714.jpg,Square Rubble,Mortar,24,28.958,4.41,237.193,143.282,86,Yes
+715.jpg,Square Rubble,Mortar,21,31.523,5.611,262.92,357.578,68,Yes
+716.jpg,Polygonal Rubble ,Mortar,11,12.09,6.487,323.671,103.439,36,No
+717.jpg,Polygonal Rubble ,Mortar,12,15.166,6.817,324.292,153.917,44,No
+718.jpg,Polygonal Rubble ,Mortar,11,13.181,5.556,323.863,86.961,36,No
+719.jpg,Polygonal Rubble ,Mortar,8,10.5,5.766,347.452,107.672,26,No
+720.jpg,Polygonal Rubble ,Mortar,10,14.3,5,354.647,173.633,34,No
+721.jpg,Polygonal Rubble ,Mortar,9,8.666,3.829,317.331,94.801,32,No
+722.jpg,Polygonal Rubble ,Mortar,9,12.777,5.39,337.724,85.509,30,No
+723.jpg,Polygonal Rubble ,Mortar,12,12.166,5.382,308.745,124.912,44,No
+724.jpg,Polygonal Rubble ,Mortar,10,8.3,1.486,293.724,162.971,32,No
+725.jpg,Polygonal Rubble ,Mortar,7,11.857,4.356,353.615,167.366,20,Yes
+726.jpg,Polygonal Rubble ,Mortar,7,16.285,5.521,431.738,137.918,18,Yes
+727.jpg,Polygonal Rubble ,Mortar,7,13.428,5.368,370.742,168.151,20,Yes
+728.jpg,Polygonal Rubble ,Mortar,6,8.666,3.858,400.043,166.359,18,Yes
+729.jpg,Polygonal Rubble ,Mortar,60,18.683,5.875,151.603,64.42,280,Yes
+730.jpg,Polygonal Rubble ,Mortar,62,18.919,5.798,137.391,57.935,274,Yes
+731.jpg,Polygonal Rubble ,Mortar,65,19.984,6.207,145.029,67.284,278,Yes
+732.jpg,Polygonal Rubble ,Mortar,69,17.434,5.92,124.998,37.353,312,Yes
+733.jpg,Polygonal Rubble ,Mortar,50,18.38,5.141,170.71,104.216,224,Yes
+734.jpg,Polygonal Rubble ,Mortar,44,13.681,3.812,154.821,54.157,182,Yes
+735.jpg,Polygonal Rubble ,Mortar,53,15.075,4.496,140.583,65.277,230,Yes
+736.jpg,Polygonal Rubble ,Mortar,52,16.173,4.933,144.128,84.423,222,Yes
+737.jpg,Polygonal Rubble ,Mortar,58,15.568,4.909,136.264,79.579,228,Yes
+738.jpg,Polygonal Rubble ,Mortar,51,15.803,4.238,148.894,102.715,204,Yes
+739.jpg,Polygonal Rubble ,Mortar,41,15.024,4.105,173.066,153.695,170,Yes
+740.jpg,Polygonal Rubble ,Mortar,51,16.745,5.666,151.551,114.058,206,Yes
+741.jpg,Polygonal Rubble ,Mortar,59,16.372,4.46,130.487,61.719,244,Yes
+742.jpg,Polygonal Rubble ,Mortar,57,15.842,5.053,130.43,46.25,250,Yes
+743.jpg,Polygonal Rubble ,Mortar,55,15.781,4.72,145.718,88.356,220,Yes
+744.jpg,Polygonal Rubble ,Mortar,43,15.976,4.985,166.01,103.141,180,Yes
+745.jpg,Polygonal Rubble ,Mortar,45,15.577,4.019,161.272,163.284,172,Yes
+746.jpg,Polygonal Rubble ,Mortar,58,15.086,5.276,134.172,59.507,242,Yes
+747.jpg,Polygonal Rubble ,Mortar,48,15.416,4.563,156.319,84.274,206,Yes
+748.jpg,Polygonal Rubble ,Mortar,47,16.085,4.694,167.178,152.076,184,Yes
+749.jpg,Polygonal Rubble ,Mortar,47,17.297,5.206,171.347,141.539,184,Yes
+750.jpg,Polygonal Rubble ,Mortar,61,17.54,4.853,135.34,61.201,256,Yes
+751.jpg,Polygonal Rubble ,Mortar,50,16.04,3.789,153.196,102.988,206,Yes
+752.jpg,Polygonal Rubble ,Mortar,53,14.792,3.803,140.431,81.607,222,Yes
+753.jpg,Polygonal Rubble ,Mortar,42,15.023,4.328,172.318,127.63,172,Yes
+763.jpg,Random Rubble,Mortar,5,18.6,2.416,555.636,276.484,10,Yes
+767.jpg,Polygonal Rubble ,Mortar,20,15.95,4.283,272.29,233.406,74,Yes
+768.jpg,Polygonal Rubble ,Mortar,31,13.225,4.903,181.933,68.187,118,Yes
+769.jpg,Polygonal Rubble ,Mortar,35,14.2,4.438,176.391,74.915,146,Yes
+770.jpg,Polygonal Rubble ,Mortar,38,13.578,5.441,155.647,75.408,148,Yes
+771.jpg,Random Rubble,Mortar,186,14.672,3.506,63.375,43.425,,No
+775.jpg,Random Rubble,Mortar,9,17.555,4.003,367.11,140.905,28,Yes
+776.jpg,Random Rubble,Mortar,11,19.181,4.238,308.855,125.93,38,Yes
+778.jpg,Random Rubble,Mortar,5,13.6,3.878,543.436,215.064,14,Yes
+781.jpg,Polygonal Rubble ,Mortar,5,14.8,1.166,616.446,246.075,14,No
+791.jpg,Polygonal Rubble ,Mortar,5,10.4,3.261,510.216,283.457,12,No
+794.jpg,Polygonal Rubble ,Mortar,6,11,2.38,469.331,220.03,16,No
+796.jpg,Polygonal Rubble ,Mortar,5,12.8,2.638,542.02,287.291,10,No
+797.jpg,Polygonal Rubble ,Mortar,7,10.571,4.169,374.693,275.693,16,No
+804.jpg,Polygonal Rubble ,Mortar,5,10.2,1.166,527.088,203.477,12,No
+823.jpg,Random Rubble,Mortar,14,16.857,5.012,289.773,200.173,42,Yes
+824.jpg,Random Rubble,Mortar,19,14.578,5.071,251.748,144.042,66,Yes
+825.jpg,Random Rubble,Mortar,15,22.466,4.544,303.182,242.49,44,Yes
+826.jpg,Random Rubble,Mortar,18,20.944,3.851,264.558,153.682,54,Yes
+827.jpg,Random Rubble,Mortar,9,20.555,3.435,412.618,229.674,30,Yes
+828.jpg,Random Rubble,Mortar,16,20.75,3.976,271.201,147.914,54,Yes
+829.jpg,Random Rubble,Mortar,12,21.166,6.555,345.982,150.698,40,Yes
+830.jpg,Random Rubble,Mortar,17,21.47,6.25,292.566,209.638,54,Yes
+861.jpg,Random Rubble,Mortar,3,7.333,1.247,570.213,63.944,6,No
+862.jpg,Random Rubble,Mortar,5,8.8,2.481,428.997,156.978,12,No
+863.jpg,Random Rubble,Mortar,2,6.5,1.5,727.181,192.769,2,No
+864.jpg,Random Rubble,Mortar,2,9.5,4.5,759.545,227.662,2,No
+865.jpg,Random Rubble,Mortar,8,11.25,7.758,368.953,125.393,24,No
+866.jpg,Random Rubble,Mortar,5,12,2.607,472.614,86.414,14,No
+867.jpg,Random Rubble,Mortar,5,10.4,4.223,501.103,293.787,14,No
+868.jpg,Random Rubble,Mortar,6,13.166,4.487,427.226,159.045,18,No
+869.jpg,Random Rubble,Mortar,8,8,2.645,309.438,155.929,24,No
+870.jpg,Random Rubble,Mortar,4,11.5,5.545,543.864,95.438,10,No
+872.jpg,Random Rubble,Mortar,5,10.4,1.854,385.948,262.074,14,No
+873.jpg,Random Rubble,Mortar,4,9,1.732,517.524,305.357,14,No
+874.jpg,Random Rubble,Mortar,3,9.666,2.624,527.177,283.364,4,No
+875.jpg,Random Rubble,Mortar,4,9.25,4.602,527.196,214.507,10,No
+877.jpg,Polygonal Rubble ,Mortar,78,16.397,3.494,127.588,85.016,346,Yes
+884.jpg,Square Rubble,Mortar,32,13.062,5.08,213.994,99.639,114,Yes
+885.jpg,Square Rubble,Mortar,33,14.757,5.624,211.571,95.67,124,Yes
+886.jpg,Square Rubble,Dry,34,21.147,4.722,239.533,185.84,112,Yes
+888.jpg,Square Rubble,Mortar,15,14.8,2.902,318.379,152.352,52,No
+897.jpg,Square Rubble,Mortar,25,8.8,3.464,206.967,61.677,92,No
+908.jpg,Square Rubble,Mortar,5,5,1.264,456.799,149.697,12,Yes
+913.jpg,Square Rubble,Mortar,16,15.812,4.049,275.347,116.892,62,No
+935.jpg,Random Rubble,Mortar,5,13.2,0.748,526.673,103.528,14,No
+937.jpg,Polygonal Rubble ,Mortar,7,10.142,2.948,386.223,201.539,18,No
+938.jpg,Polygonal Rubble ,Mortar,6,8.5,2.986,442.053,99.894,18,No
+939.jpg,Polygonal Rubble ,Mortar,7,10.571,3.155,391.119,248.979,20,No
+940.jpg,Polygonal Rubble ,Mortar,7,9.714,2.49,323.115,184.782,22,No
+941.jpg,Square Rubble,Mortar,40,9.2,2.984,145.116,47.536,176,Yes
+944.jpg,Square Rubble,Dry,18,14.222,4.13,264.648,141.164,64,Yes
+945.jpg,Square Rubble,Dry,20,13.3,4.196,244.56,96.003,80,Yes
+946.jpg,Square Rubble,Dry,16,12.25,3.881,287.068,151.57,56,Yes
+947.jpg,Square Rubble,Dry,21,12.095,3.435,244.007,79.329,74,Yes
+948.jpg,Random Rubble,Mortar,11,13.818,3.712,300.315,115.335,40,No
+949.jpg,Random Rubble,Mortar,12,12.416,3.569,264.209,120.945,38,No
+951.jpg,Random Rubble,Mortar,9,9,2.449,301.438,94.3,28,No
+952.jpg,Polygonal Rubble ,Mortar,19,11.894,4.076,227.918,89.029,62,Yes
+953.jpg,Polygonal Rubble ,Mortar,18,12.388,4.436,248.33,98.143,58,Yes
+954.jpg,Polygonal Rubble ,Mortar,19,14.684,4.542,260.982,119.984,70,Yes
+955.jpg,Polygonal Rubble ,Mortar,20,15.4,5.994,235.671,121.323,68,Yes
+956.jpg,Random Rubble,Mortar,12,10.5,3.013,350.645,217.511,34,Yes
+957.jpg,Random Rubble,Mortar,13,11.307,3.428,290.239,205.278,44,Yes
+958.jpg,Random Rubble,Mortar,9,13,2.581,413.968,233.707,26,Yes
+959.jpg,Random Rubble,Mortar,8,11.75,4.71,309.31,248.225,24,Yes
+961.jpg,Random Rubble,Mortar,7,13.714,2.813,505.786,393.263,18,Yes
+963.jpg,Polygonal Rubble ,Dry,7,11.428,3.155,425.781,201.727,18,Yes
+964.jpg,Polygonal Rubble ,Dry,8,10,3.316,415.356,87.935,26,Yes
+965.jpg,Polygonal Rubble ,Dry,5,11.4,1.743,561.698,348.959,14,Yes
+966.jpg,Polygonal Rubble ,Dry,6,9.166,1.343,455.841,179.575,18,Yes
+967.jpg,Square Rubble,Mortar,50,8.16,2.737,130.397,38.753,216,Yes
+968.jpg,Polygonal Rubble ,Mortar,107,12.635,3.07,94.28,37.133,,Yes
+969.jpg,Random Rubble,Mortar,13,12,3.088,284.284,65.179,50,No
+970.jpg,Random Rubble,Mortar,16,11.562,3.081,236.667,85.635,64,No
+971.jpg,Random Rubble,Mortar,13,9.23,3.744,262.557,75.617,44,No
+972.jpg,Random Rubble,Mortar,14,9.428,2.993,237.322,101.974,54,No
+973.jpg,Polygonal Rubble ,Mortar,116,8.543,2.32,81.017,25.446,,Yes
+974.jpg,Polygonal Rubble ,Mortar,23,12.913,3.832,227.092,68.087,96,Yes
+975.jpg,Square Rubble,Dry,18,11.111,3.725,313.793,162.621,50,Yes
+976.jpg,Square Rubble,Dry,18,12,3.431,307.521,195.061,58,Yes
+977.jpg,Square Rubble,Dry,11,13.181,4.195,498.572,246.192,30,Yes
+978.jpg,Square Rubble,Dry,14,12.071,2.987,320.045,244.158,42,Yes
+991.jpg,Square Rubble,Dry,7,10.857,4.189,502.792,294.999,20,Yes
+992.jpg,Square Rubble,Dry,9,12.333,4.216,418.091,245.558,30,Yes
+993.jpg,Square Rubble,Dry,8,12,3.391,433.787,424.586,22,Yes
+994.jpg,Square Rubble,Dry,6,10.833,2.544,514.161,209.255,12,Yes
+995.jpg,Square Rubble,Dry,7,10.428,2.969,508.164,220.317,18,Yes
+1010.jpg,Square Rubble,Dry,13,15.23,3.64,339.849,183.442,40,Yes
+1016.jpg,Square Rubble,Mortar,21,16.238,3.702,338.529,159.405,62,Yes
+1018.jpg,Square Rubble,Mortar,18,17,3,367.731,196.672,54,Yes
+1019.jpg,Square Rubble,Mortar,21,16.428,313.933,138.994,138.994,78,Yes
+1022.jpg,Square Rubble,Dry,24,10.791,3.593,290.742,208.231,74,Yes
+1024.jpg,Square Rubble,Mortar,24,9.833,4.149,206.388,66.67,100,Yes
+1025.jpg,Square Rubble,Mortar,25,10.56,3.909,202.979,87.88,104,Yes
+1026.jpg,Square Rubble,Mortar,19,10,3.684,233.364,95.643,74,Yes
+1027.jpg,Square Rubble,Dry,52,13.269,4.678,180.508,101.801,186,Yes
+1028.jpg,Square Rubble,Dry,50,12.64,4.013,177.073,105.166,188,Yes
+1029.jpg,Square Rubble,Dry,46,12.934,4.244,187.984,117.28,166,Yes
+1030.jpg,Square Rubble,Dry,53,12.773,4.436,179.774,100.136,186,Yes
+1031.jpg,Square Rubble,Dry,47,13.063,4.483,192.053,103.099,168,Yes
+1032.jpg,Square Rubble,Dry,48,13.5,4.65,189.169,124.143,162,Yes
+1033.jpg,Square Rubble,Dry,53,13.132,4.817,176.414,113.37,202,Yes
+1034.jpg,Square Rubble,Dry,48,13.541,4.898,187.315,107.523,178,Yes
+1035.jpg,Square Rubble,Mortar,27,11.481,5.028,220.741,101.164,102,Yes
+1036.jpg,Square Rubble,Mortar,23,7.695,3.367,215.903,81.326,80,Yes
+1037.jpg,Square Rubble,Mortar,16,7.187,3.263,258.185,153.979,48,Yes
+1038.jpg,Square Rubble,Mortar,25,8.72,3.292,220.797,116.436,98,Yes
+1050.jpg,Polygonal Rubble ,Mortar,14,12.642,4.789,283.862,202.978,50,Yes
+1051.jpg,Polygonal Rubble ,Mortar,16,10.625,2.781,227.457,81.718,54,Yes
+1052.jpg,Polygonal Rubble ,Mortar,15,9.666,2.086,245.618,150.013,52,Yes
+1053.jpg,Polygonal Rubble ,Mortar,15,9.133,2.526,249.898,138.005,48,Yes
+1054.jpg,Polygonal Rubble ,Mortar,37,8.081,2.018,154.642,39.613,164,Yes
+1055.jpg,Polygonal Rubble ,Mortar,34,8.558,2.403,164.182,52.804,144,Yes
+1056.jpg,Polygonal Rubble ,Mortar,41,8.536,2.47,144.397,52.206,,Yes
